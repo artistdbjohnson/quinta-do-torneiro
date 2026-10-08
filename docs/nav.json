@@ -1,0 +1,578 @@
+[
+ {
+  "label": "Home",
+  "href": "https://www.quintadotorneiro-eventos.com",
+  "children": []
+ },
+ {
+  "label": "Portugal",
+  "href": "https://www.quintadotorneiro-eventos.com/porque-casar-em-portugal",
+  "children": [
+   {
+    "label": "Destination Weddings em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/destination-wedding-portugal"
+   },
+   {
+    "label": "Taís Puntel em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/tais-puntel-em-portugal"
+   },
+   {
+    "label": "Casamentos em Lisboa",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-em-lisboa"
+   },
+   {
+    "label": "Casamentos em Sintra",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-em-sintra"
+   },
+   {
+    "label": "Casamentos em Oeiras",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-em-oeiras"
+   },
+   {
+    "label": "Azulejos Portugueses",
+    "href": "https://www.quintadotorneiro-eventos.com/azulejos-portugueses-portugal"
+   },
+   {
+    "label": "Destination Wedding na Europa",
+    "href": "https://www.quintadotorneiro-eventos.com/destination-wedding-na-europa"
+   },
+   {
+    "label": "Casamento em Portugal ou Itália?",
+    "href": "https://www.quintadotorneiro-eventos.com/casar-em-portugal-ou-italia"
+   },
+   {
+    "label": "Casamento em Lisboa ou Algarve?",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-em-lisboa-ou-algarve"
+   },
+   {
+    "label": "Casar em Lisboa ou no Porto?",
+    "href": "https://www.quintadotorneiro-eventos.com/casar-em-lisboa-ou-no-porto"
+   },
+   {
+    "label": "Casamentos com Doces Portugueses",
+    "href": "https://www.quintadotorneiro-eventos.com/doces-portugueses-para-casamentos"
+   },
+   {
+    "label": "Lua de Mel em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/lua-de-mel-portugal"
+   },
+   {
+    "label": "Ensaio pré-wedding",
+    "href": "https://www.quintadotorneiro-eventos.com/ensaio-pre-wedding-portugal"
+   },
+   {
+    "label": "Diferenças dos casamentos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/diferencas-casamentos-em-portugal"
+   },
+   {
+    "label": "Casamento Europeu",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-europeu"
+   },
+   {
+    "label": "Casamento na praia em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-na-praia-portugal"
+   },
+   {
+    "label": "Oeiras Valley em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/oeiras-valley-portugal"
+   }
+  ]
+ },
+ {
+  "label": "A Quinta",
+  "href": "https://www.quintadotorneiro-eventos.com/a-quinta-do-torneiro",
+  "children": [
+   {
+    "label": "Início da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/inicio-da-quinta-do-torneiro"
+   },
+   {
+    "label": "A Historia da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/historia-da-quinta-do-torneiro"
+   },
+   {
+    "label": "Por que a Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/por-que-quinta-do-torneiro"
+   },
+   {
+    "label": "Conheça os Espaços da Quinta",
+    "href": "https://www.quintadotorneiro-eventos.com/comodos-da-quinta"
+   },
+   {
+    "label": "Jardim do Pátio",
+    "href": "https://www.quintadotorneiro-eventos.com/jardim-do-patio-quinta-portugal"
+   },
+   {
+    "label": "Jardim Francês",
+    "href": "https://www.quintadotorneiro-eventos.com/quinta-jardim-frances-portugal"
+   },
+   {
+    "label": "Jardim da Entrada",
+    "href": "https://www.quintadotorneiro-eventos.com/jardim-da-entrada-quinta-portugal"
+   },
+   {
+    "label": "Capela",
+    "href": "https://www.quintadotorneiro-eventos.com/capela-quinta-portugal"
+   },
+   {
+    "label": "Salão Nobre",
+    "href": "https://www.quintadotorneiro-eventos.com/salao-nobre-quinta-do-torneiro"
+   },
+   {
+    "label": "Sala do Brasão",
+    "href": "https://www.quintadotorneiro-eventos.com/sala-do-brasao-quinta-do-torneiro"
+   },
+   {
+    "label": "Sala das Caravelas",
+    "href": "https://www.quintadotorneiro-eventos.com/sala-das-caravelas-portugal"
+   },
+   {
+    "label": "Sala da Lareira",
+    "href": "https://www.quintadotorneiro-eventos.com/sala-da-lareira-quinta-do-torneiro"
+   },
+   {
+    "label": "Terraço Coberto",
+    "href": "https://www.quintadotorneiro-eventos.com/terraco-coberto-quinta-do-torneiro"
+   },
+   {
+    "label": "Suíte Principal",
+    "href": "https://www.quintadotorneiro-eventos.com/suite-principal-portugal"
+   },
+   {
+    "label": "Quartos",
+    "href": "https://www.quintadotorneiro-eventos.com/quinta-casamentos-quartos-portugal"
+   },
+   {
+    "label": "Estacionamento",
+    "href": "https://www.quintadotorneiro-eventos.com/estacionamento-quinta-do-torneiro"
+   },
+   {
+    "label": "Plantas da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/plantas-da-quinta-do-torneiro"
+   },
+   {
+    "label": "Avaliações no Google Reviews",
+    "href": "https://www.quintadotorneiro-eventos.com/avaliacoes-google-reviews"
+   }
+  ]
+ },
+ {
+  "label": "Eventos",
+  "href": "https://www.quintadotorneiro-eventos.com/quinta-do-torneiro-eventos-portugal",
+  "children": [
+   {
+    "label": "Casamentos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-em-portugal"
+   },
+   {
+    "label": "Eventos Corporativos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/eventos-corporativos-portugal"
+   },
+   {
+    "label": "Detalhes dos Eventos Corporativos",
+    "href": "https://www.quintadotorneiro-eventos.com/detalhes-eventos-corporativos"
+   },
+   {
+    "label": "Festas em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/festas-portugal"
+   },
+   {
+    "label": "Renovação de Votos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/renovacao-votos-casamento-portugal"
+   },
+   {
+    "label": "Festas de 15 anos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/festas-15-anos-portugal"
+   },
+   {
+    "label": "Festas de 40 Anos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/festas-40-anos-quinta"
+   },
+   {
+    "label": "Festas de 50 Anos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/festa-50-anos-lisboa-portugal"
+   },
+   {
+    "label": "Festas de aniversário em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/aniversarios-em-portugal"
+   },
+   {
+    "label": "Batizados em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/batizados-portugal"
+   },
+   {
+    "label": "Filmagens em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/filmagens-fotografia-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Casamentos",
+  "href": "https://www.quintadotorneiro-eventos.com/casamentos-portugal",
+  "children": [
+   {
+    "label": "Casamento com Mesa Longa no Jardim",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-com-mesa-jardim-portugal"
+   },
+   {
+    "label": "Casamento na Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-na-quinta-do-torneiro"
+   },
+   {
+    "label": "Casamentos ao Ar Livre em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-ar-livre-quinta-portugal"
+   },
+   {
+    "label": "Elopement Wedding em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/elopement-wedding-portugal"
+   },
+   {
+    "label": "Mini Weddings em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-mini-weddings-portugal"
+   },
+   {
+    "label": "Casamento Tradicional em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-tradicionais-portugueses"
+   },
+   {
+    "label": "Casamentos ao Pôr do Sol em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-por-do-sol-portugal"
+   },
+   {
+    "label": "Casamento no Castelo",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-no-castelo"
+   },
+   {
+    "label": "Estilo de Casamento Europeu",
+    "href": "https://www.quintadotorneiro-eventos.com/estilo-de-casamento-europeu"
+   },
+   {
+    "label": "Casamentos Católicos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-catolicos-portugal"
+   },
+   {
+    "label": "Casamentos na Chácara em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-na-chacara-portugal"
+   },
+   {
+    "label": "Casamentos na Fazenda em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-fazenda-portugal"
+   },
+   {
+    "label": "Casamentos no Campo em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-no-campo-portugal"
+   },
+   {
+    "label": "Casamentos no Jardim em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-jardim-portugal"
+   },
+   {
+    "label": "Casamentos Românticos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-romantico-quinta-portugal"
+   },
+   {
+    "label": "Casamentos Sofisticados em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-sofisticados-portugal"
+   },
+   {
+    "label": "Casamentos Homoafetivos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-homoafetivo-em-portugal"
+   },
+   {
+    "label": "Casamento no Jardim com Food Trucks",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-food-truck-portugal"
+   },
+   {
+    "label": "Casa Senhorial para Casamentos Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casa-senhorial-casamento-portugal"
+   },
+   {
+    "label": "Casamento na Europa",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-na-europa"
+   },
+   {
+    "label": "Three Day Wedding",
+    "href": "https://www.quintadotorneiro-eventos.com/3-day-wedding-portugal"
+   },
+   {
+    "label": "Decoração de casamentos azul",
+    "href": "https://www.quintadotorneiro-eventos.com/decoracao-de-casamentos-azul"
+   },
+   {
+    "label": "Espaço para Casamentos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/espaco-para-casamentos-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Decoração",
+  "href": "https://www.quintadotorneiro-eventos.com/decoracao-casamento-portugal",
+  "children": [
+   {
+    "label": "Casamentos Azul em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-azul-portugal"
+   },
+   {
+    "label": "Casamentos Vintage em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-vintage-portugal"
+   },
+   {
+    "label": "Casamentos Rústicos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-rusticos-portugal"
+   },
+   {
+    "label": "Decoração com Azulejos Portugueses",
+    "href": "https://www.quintadotorneiro-eventos.com/decoracao-azulejos-portugueses"
+   },
+   {
+    "label": "Casamentos Clássicos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-classico-quinta-portugal"
+   },
+   {
+    "label": "Casamentos com Tons Pastéis em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamentos-tons-pasteis-portugal"
+   },
+   {
+    "label": "Quinta para casamentos",
+    "href": "https://www.quintadotorneiro-eventos.com/quinta-para-casamento"
+   },
+   {
+    "label": "Bar para Casamentos da Quinta do Torneir",
+    "href": "https://www.quintadotorneiro-eventos.com/bar-casamentos-eventos-em-portugal"
+   },
+   {
+    "label": "Pista de Dança da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/pista-de-danca-casamento-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Serviços",
+  "href": "https://www.quintadotorneiro-eventos.com/servico-evento-casamento-portugal",
+  "children": [
+   {
+    "label": "Lisbon Wedding Planner",
+    "href": "https://www.quintadotorneiro-eventos.com/lisbon-wedding-planner"
+   },
+   {
+    "label": "Wedding Planner Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/wedding-planner-portugal"
+   },
+   {
+    "label": "Cerimonial de casamento em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/cerimonial-cerimonialista-portugal"
+   },
+   {
+    "label": "Assessoria de casamento em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/assessoria-casamento-em-portugal"
+   },
+   {
+    "label": "Buffet na Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/buffet-portugal"
+   },
+   {
+    "label": "Catering na Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/catering-quinta-do-torneiro"
+   },
+   {
+    "label": "Menus Criativos e Alternativos",
+    "href": "https://www.quintadotorneiro-eventos.com/menus-criativos-casamentos-portugal"
+   },
+   {
+    "label": "Mesas de Doces Criativas Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/mesa-doces-criativa-portugal"
+   },
+   {
+    "label": "Bolos de Casamentos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/bolo-de-casamento-em-portugal"
+   },
+   {
+    "label": "Casamento vegetariano em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/casamento-vegetariano-em-portugal"
+   },
+   {
+    "label": "Cerimônia Civil em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/cerimonia-civil-portugal"
+   },
+   {
+    "label": "Cerimônia Simbólica em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/cerimonia-simbolica-portugal"
+   },
+   {
+    "label": "Cerimônia Católica em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/cerimonia-catolica-em-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Galeria",
+  "href": "https://www.quintadotorneiro-eventos.com/galeria-portugal",
+  "children": [
+   {
+    "label": "Jardim do Pátio",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-jardim-do-patio-portugal"
+   },
+   {
+    "label": "Jardim Francês",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-jardim-frances-portugal"
+   },
+   {
+    "label": "Jardim da Entrada",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-jardim-da-entrada-portugal"
+   },
+   {
+    "label": "Capela",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-capela-portugal"
+   },
+   {
+    "label": "Salão Nobre",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-salao-nobre-portugal"
+   },
+   {
+    "label": "Sala do Brasão",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-sala-do-brasao-portugal"
+   },
+   {
+    "label": "Sala das Caravelas",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-sala-das-caravelas-portugal"
+   },
+   {
+    "label": "Sala da Lareira",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-sala-da-lareira-portugal"
+   },
+   {
+    "label": "Terraço Coberto",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-terraco-coberto-portugal"
+   },
+   {
+    "label": "Tenda para Casamentos e Eventos",
+    "href": "https://www.quintadotorneiro-eventos.com/tenda-eventos-casamentos-portugal"
+   },
+   {
+    "label": "Estufa para Eventos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/estufa-eventos-casamentos-portugal"
+   },
+   {
+    "label": "Suíte Principal",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-suite-principal-portugal"
+   },
+   {
+    "label": "Quartos",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-quartos-portugal"
+   },
+   {
+    "label": "Bar para Casamentos em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/bar-casamentos-eventos-portugal"
+   },
+   {
+    "label": "Casamento na Praia em Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/galeria-casamento-na-praia"
+   },
+   {
+    "label": "Mesa de Doces Lima Limão",
+    "href": "https://www.quintadotorneiro-eventos.com/mesa-de-doces-lima-limao-portugal"
+   },
+   {
+    "label": "Taís Puntel Workshop Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/tais-puntel-workshop-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Local",
+  "href": "https://www.quintadotorneiro-eventos.com/localizacao-quinta-do-torneiro",
+  "children": [
+   {
+    "label": "Praias próximas da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/praias-proximas-em-lisboa"
+   },
+   {
+    "label": "História de Oeiras",
+    "href": "https://www.quintadotorneiro-eventos.com/historia-oeiras-portugal"
+   },
+   {
+    "label": "Igrejas próximas da Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/igrejas-proximas-quinta-do-torneiro"
+   },
+   {
+    "label": "Destination wedding Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/destination-wedding-in-portugal"
+   },
+   {
+    "label": "Wedding Venue Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/wedding-venue-portugal"
+   },
+   {
+    "label": "Wedding Villa in Lisbon",
+    "href": "https://www.quintadotorneiro-eventos.com/wedding-villa-lisbon-portugal"
+   }
+  ]
+ },
+ {
+  "label": "Preçario",
+  "href": "https://www.quintadotorneiro-eventos.com/pacotes-precos-casamentos-portugal",
+  "children": [
+   {
+    "label": "Todos os Pacotes de Casamento",
+    "href": "https://www.quintadotorneiro-eventos.com/pacotes-precos-casamentos-portugal"
+   },
+   {
+    "label": "Pacotes de Casamento 2026",
+    "href": "https://www.quintadotorneiro-eventos.com/pacotes-de-casamento-2026"
+   },
+   {
+    "label": "Pacotes de Casamento 2027",
+    "href": "https://www.quintadotorneiro-eventos.com/pacotes-de-casamento-2027"
+   },
+   {
+    "label": "Pack Casamento Sem Estadia 80 pax",
+    "href": "https://www.quintadotorneiro-eventos.com/pacote-casamento-80-sem-estadia"
+   },
+   {
+    "label": "Pacote Elopement Wedding Portugal",
+    "href": "https://www.quintadotorneiro-eventos.com/pacote-elopement-wedding-portugal"
+   },
+   {
+    "label": "Detalhes dos Pacotes de Casamento",
+    "href": "https://www.quintadotorneiro-eventos.com/detalhes-pacotes-de-casamento"
+   },
+   {
+    "label": "Detalhes dos MINI Pacotes de Casam...",
+    "href": "https://www.quintadotorneiro-eventos.com/detalhes-pacotes-mini-casamento"
+   },
+   {
+    "label": "Menu Casamento Quinta do Torneiro",
+    "href": "https://www.quintadotorneiro-eventos.com/menu-casamento-quinta-do-torneiro"
+   },
+   {
+    "label": "Menu MINI Casamento Quinta do Torn...",
+    "href": "https://www.quintadotorneiro-eventos.com/menu-mini-casamento-quinta-do-torne"
+   }
+  ]
+ },
+ {
+  "label": "Contato",
+  "href": "https://www.quintadotorneiro-eventos.com/contato-portugal",
+  "children": [
+   {
+    "label": "Sitemap",
+    "href": "https://www.quintadotorneiro-eventos.com/sitemap-quinta-do-torneiro"
+   }
+  ]
+ },
+ {
+  "label": "FAQ",
+  "href": "https://www.quintadotorneiro-eventos.com/faqs-quinta-do-torneiro-portugues",
+  "children": []
+ },
+ {
+  "label": "Blog",
+  "href": "https://www.quintadotorneiro-eventos.com/blog",
+  "children": []
+ },
+ {
+  "label": "Mais",
+  "href": null,
+  "children": []
+ }
+]
