@@ -1,0 +1,5 @@
+# Media notes — Quinta do Torneiro pitch
+- Real photography: all venue images are the client's own published Wix media (quintadotorneiro-eventos.com), downloaded at fit 2000px, curated per space (media-pack/location) and per long-tail page (media-pack/wix, ≤1100px WebP). No rehost of third-party video; the Lisbon Wedding Planner film is a click-to-load Vimeo embed (player.vimeo.com/video/438508117).
+- Staff / people: the venue publishes no staff portraits → no identity remap performed, no generated staff faces. Couples/guests appear only inside the venue's own event photography.
+- Generated study plates (studio side, Figma generate_image, model gpt-image-2.5): packages-stilllife, sweets-table, contact-courtyard, azulejo-macro, ceremony-hands (faceless), suite-morning. Prompts written from each section's copy; CD gate rejected glossy/CGI takes and impossible tile geometry. Always captioned "ESTUDO EDITORIAL", never presented as the venue.
+- Grok Imagine not used (open is not a video; no browser session needed).
