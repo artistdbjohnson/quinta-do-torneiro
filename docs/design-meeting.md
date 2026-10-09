@@ -89,4 +89,18 @@ Home · every nav target (124 children across Portugal / A Quinta / Eventos / Ca
 Ash pre-score of the plan: 9.5 — distinct open + seed + material; risks: 13-group nav fit at 1024–1440, tile-flip perf on phone, long-tail page quality. Final score in Gauntlet log.
 
 ## Gauntlet log
-(filled after preview review)
+Preview review — Fri 2026-10-09, live https://quinta-do-torneiro.vercel.app/ (HTTP 200), headless Chrome, desktop 1440×900 and phone 390×844 @2x.
+
+| Gate | Result |
+|---|---|
+| No blank / broken pages | PASS — home + 7 inner pages (Preçário hub, A Quinta, Salão Nobre, Jardim Francês, Capela, FAQ, Contato) render real content (H1 + body copy), 0 broken images after a full scroll on both viewports, 0 JS page errors, no horizontal overflow (scrollWidth = 390 on phone). Unknown slugs return the branded 404 ("Esta página não está na Quinta."), not a blank page. |
+| Nav spacing (gate 2) | PASS — wordmark, nav groups, Pacotes pill, PT\|EN and Light/Dark never overlap at 1440 and 390; phone = wordmark + Pacotes + Menu with air above the sheet; sheet shows phone/WhatsApp then every group. |
+| Scroll targets (gate 3) | PASS — #a-quinta, #pacotes, #espacos, #contatos, #filme land at 90px with the sticky nav ending at 75px (scroll-margin-top = nav + safe-area + 16px) on both viewports; heading + first card sit directly under the nav, no empty band. |
+| PT default + EN toggle | PASS — loads lang=pt-PT; EN flips to lang=en and nav/labels switch (The Quinta, Weddings, Packages…); choice persisted (qdt-lang). |
+| Dark \| light | PASS — Light default; Dark = night glaze #0E1A2B; persisted (qdt-theme). |
+| Opening | PASS — azulejo tile-lay → tile-flip plays once per session, hero revealed; no blank state after it. |
+| Photography | PASS — real venue plate in every chapter / space card, small-caps caption under plates; generated plates captioned ESTUDO EDITORIAL. |
+
+Open notes (not blockers, nothing broken): the 01–09 chapter rail ticks sit on the left edge of the hero plate at ≥1280px; the ledger rows are long on phone but scroll cleanly.
+
+Result: **SHIP — nothing genuinely broken, no code change needed.** Reed: PASS (condition met — plate on every space page, nav verified overlap-free at 1024, 1280, 1440 and 390 with 13 groups collapsed into Mais). Final Ash score: **9.5 / 10** (matches the plan pre-score; risks resolved — nav fit, phone tile-flip, long-tail pages).
